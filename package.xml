@@ -3,7 +3,7 @@
   <name>manipulator-kinematics</name>
   <version>1.0.0</version>
   <description>
-  This package contains the introduction to robotics 
+    Temporary holder
   </description>
   <maintainer email="shashankrajivmoghe@gmail.com">Shashank Rajiv Moghe</maintainer>
   <license>MIT</license>
@@ -11,6 +11,7 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <depend>roscpp</depend>
+  <depend>std_msgs</depend>
   <depend>rviz</depend>
 
   <depend>tf2</depend>
